@@ -1,7 +1,7 @@
 <img alt="coding"  src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Aung Thu Zaw</h1>
-<h3 align="center">A passionate web developer from Myanmar</h3>
+<h3 align="center" margin-bottom="100px">A passionate web developer from Myanmar</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aung-thu-zaw&theme=onestar)](https://github.com/aung-thu-zaw/github-profile-trophy)
 
