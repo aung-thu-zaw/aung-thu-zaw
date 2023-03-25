@@ -43,7 +43,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aung-thu-zaw&theme=onestar)](https://github.com/aung-thu-zaw/github-profile-trophy)
 
-<div style="  display: flex; align-items: center; justify-content: center;">
+<div style="  display: flex; align-items: center; justify-content: between;">
   <a href="https://streak-stats.demolab.com?user=aung-thu-zaw&theme=github-dark-blue&hide_border=false&border_radius=3&disable_animations=false">
     <img src="https://streak-stats.demolab.com?user=aung-thu-zaw&theme=github-dark-blue&hide_border=false&border_radius=3&disable_animations=false" alt="GitHub Streak" />
   </a>
