@@ -43,16 +43,18 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aung-thu-zaw&theme=onestar)](https://github.com/aung-thu-zaw/github-profile-trophy)
 
-<div style="display: flex;">
+<div style="  display: flex; align-items: center; justify-content: center;">
   <a href="https://streak-stats.demolab.com?user=aung-thu-zaw&theme=github-dark-blue&hide_border=false&border_radius=3&disable_animations=false">
     <img src="https://streak-stats.demolab.com?user=aung-thu-zaw&theme=github-dark-blue&hide_border=false&border_radius=3&disable_animations=false" alt="GitHub Streak" />
   </a>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=aung-thu-zaw&show_icons=true&theme=github_dark" alt="Anurag's GitHub stats" />
-  <a href="https://github.com/aung-thu-zaw/github-readme-stats">
+</div>
+
+ <a href="https://github.com/aung-thu-zaw/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aung-thu-zaw&layout=compact" alt="Top Langs" />
   </a>
   <a href="https://github.com/aung-thu-zaw/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aung-thu-zaw&theme=onestar" alt="trophy" />
   </a>
-</div>
 
