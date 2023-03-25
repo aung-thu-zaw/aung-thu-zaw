@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aung-thu-zaw](https://github.com/aung-thu-zaw)
 
-- 💬 Ask me about **Laravel And Vue Js**
+- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **aungthuzaw003@gmail.com**
 
