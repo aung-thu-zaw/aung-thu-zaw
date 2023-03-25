@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I think I am smart**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aung-thu-zaw&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aung-thu-zaw&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
