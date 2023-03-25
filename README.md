@@ -19,11 +19,7 @@
 
 - ⚡ Fun fact **I think I am smart**
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-    <a href="https://streak-stats.demolab.com?user=aung-thu-zaw&theme=github-dark-blue&hide_border=false&border_radius=3&disable_animations=false">
-    <img src="https://streak-stats.demolab.com?user=aung-thu-zaw&theme=github-dark-blue&hide_border=false&border_radius=3&disable_animations=false"             alt="GitHub Streak" />
-  </a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=aung-thu-zaw&theme=github-dark-blue&border_radius=3&mode=weekly)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
