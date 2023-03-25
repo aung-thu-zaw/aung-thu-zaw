@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I think I am smart**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aung-thu-zaw&show_icons=true&theme=github_dark)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,9 +31,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aung-thu-zaw&theme=github-dark-blue&hide_border=false&border_radius=3&disable_animations=false)](https://git.io/streak-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aung-thu-zaw&show_icons=true&theme=github_dark)
+
