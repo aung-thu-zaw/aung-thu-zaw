@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **I think I am smart**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aung-thu-zaw&show_icons=true&theme=tokyonight)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/aungthuzaw322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aungthuzaw322" height="30" width="40" /></a>
