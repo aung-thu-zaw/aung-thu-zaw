@@ -20,12 +20,7 @@
 - ⚡ Fun fact **I think I am smart**
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aung-thu-zaw&show_icons=true&theme=github_dark" alt="Anurag's GitHub stats" />
-  
-  <a href="https://streak-stats.demolab.com?user=aung-thu-zaw&theme=github-dark-blue&hide_border=false&border_radius=3&disable_animations=false">
-    <img src="https://streak-stats.demolab.com?user=aung-thu-zaw&theme=github-dark-blue&hide_border=false&border_radius=3&disable_animations=false" alt="GitHub Streak" />
-  </a>
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=aung-thu-zaw&show_icons=true&theme=github_dark" alt="Anurag's GitHub stats" /> 
 </div>
 
 <h3 align="left">Connect with me:</h3>
@@ -40,4 +35,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aung-thu-zaw&layout=compact)](https://github.com/aung-thu-zaw/github-readme-stats)
 
+  <a href="https://streak-stats.demolab.com?user=aung-thu-zaw&theme=github-dark-blue&hide_border=false&border_radius=3&disable_animations=false">
+    <img src="https://streak-stats.demolab.com?user=aung-thu-zaw&theme=github-dark-blue&hide_border=false&border_radius=3&disable_animations=false" alt="GitHub Streak" />
+  </a>
 
