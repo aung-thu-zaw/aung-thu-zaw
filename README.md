@@ -2,6 +2,8 @@
 
 <img alt="coding"  src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="100%"/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=aung-thu-zaw&theme=onestar)](https://github.com/aung-thu-zaw/github-profile-trophy)
+
 <h1 align="center">Hi 👋, I'm Aung Thu Zaw</h1>
 <h3 align="center">A passionate web developer from Myanmar</h3>
 
@@ -19,11 +21,13 @@
 
 - ⚡ Fun fact **I think I am smart**
 
-
-
-
-
-
+<div style="  display: flex; align-items: center; justify-content: between;">
+  <a href="https://streak-stats.demolab.com?user=aung-thu-zaw&theme=github-dark-blue&hide_border=false&border_radius=3&disable_animations=false">
+    <img src="https://streak-stats.demolab.com?user=aung-thu-zaw&theme=github-dark-blue&hide_border=false&border_radius=3&disable_animations=false" alt="GitHub Streak" />
+  </a>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=aung-thu-zaw&show_icons=true&theme=github_dark" alt="Anurag's GitHub stats" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,20 +45,12 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aung-thu-zaw&theme=onestar)](https://github.com/aung-thu-zaw/github-profile-trophy)
 
-<div style="  display: flex; align-items: center; justify-content: between;">
-  <a href="https://streak-stats.demolab.com?user=aung-thu-zaw&theme=github-dark-blue&hide_border=false&border_radius=3&disable_animations=false">
-    <img src="https://streak-stats.demolab.com?user=aung-thu-zaw&theme=github-dark-blue&hide_border=false&border_radius=3&disable_animations=false" alt="GitHub Streak" />
-  </a>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=aung-thu-zaw&show_icons=true&theme=github_dark" alt="Anurag's GitHub stats" />
-</div>
+
+
 
  <a href="https://github.com/aung-thu-zaw/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aung-thu-zaw&layout=compact" alt="Top Langs" />
   </a>
-  <a href="https://github.com/aung-thu-zaw/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aung-thu-zaw&theme=onestar" alt="trophy" />
-  </a>
+
 
