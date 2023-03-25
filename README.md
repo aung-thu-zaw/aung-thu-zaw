@@ -19,7 +19,10 @@
 
 - ⚡ Fun fact **I think I am smart**
 
+<p>
 [![GitHub Streak](https://streak-stats.demolab.com?user=aung-thu-zaw&theme=github-dark-blue&hide_border=false&border_radius=3&disable_animations=false)](https://git.io/streak-stats)
+</p>
+
 
 
 <h3 align="left">Connect with me:</h3>
