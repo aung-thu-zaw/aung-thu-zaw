@@ -80,46 +80,40 @@ I'm Aung Thu Zaw, a passionate Fullstack Web Developer with a strong background 
 </div>
 
 <div>
-    <h3 align="left">Frontend:</h3>
+    <h3 align="left">Frontend Frameworks, Libraries and Tools:</h3>
     <div align="left">
+        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40" />
+        </a>
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40" />
+        </a>
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40" />
+        </a>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=react"
-                alt="react" width="40" height="40" />
+            <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40" />
+        </a>
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40" />
         </a>
         <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=vue"
-                alt="vuejs" width="40" height="40" />
-        </a>
-        <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=alpinejs"
-                alt="vuejs" width="40" height="40" />
+            <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40" />
         </a>
         <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40" />
         </a>
-        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=sass" alt="sass"
-                width="40" height="40" />
-        </a>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40"
-                height="40" />
-        </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=bootstrap"
-                alt="bootstrap" width="40" height="40" />
-        </a>
-        <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="40"
-                height="40" />
-        </a>
-        <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=webpack"
-                alt="webpack" width="40" height="40" />
+        <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=alpinejs" alt="vuejs" width="40" height="40" />
         </a>
         <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=d3" alt="d3js"
-                width="40" height="40" />
+            <img src="https://skillicons.dev/icons?i=d3" alt="d3js" width="40" height="40" />
+        </a>
+        <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="40" height="40" />
+        </a>
+        <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40" />
         </a>
         <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
             <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="chartjs" width="40" height="40" />
