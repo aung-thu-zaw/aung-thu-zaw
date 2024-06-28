@@ -158,6 +158,24 @@
 </div>
 
 <div>
+    <h3 align="left">Testing & Automation:</h3>
+    <div align="left">
+        <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40" />
+        </a>
+        <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40" />
+        </a>
+        <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=vitest" alt="vitest" width="40" height="40" />
+        </a>
+        <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" width="40" height="40" />
+        </a>
+    </div>
+</div>
+
+<div>
     <h3 align="left">DevOps & Cloud:</h3>
     <div align="left">
         <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
@@ -204,24 +222,6 @@
         </a>
         <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40" />
-        </a>
-    </div>
-</div>
-
-<div>
-    <h3 align="left">Testing & Automation:</h3>
-    <div align="left">
-        <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40" />
-        </a>
-        <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40" />
-        </a>
-        <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=vitest" alt="vitest" width="40" height="40" />
-        </a>
-        <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" width="40" height="40" />
         </a>
     </div>
 </div>
