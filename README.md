@@ -182,7 +182,7 @@ I'm Aung Thu Zaw, a passionate Fullstack Web Developer with a strong background 
                 alt="docker" width="40" height="40" />
         </a>
         <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
+            <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40" />
         </a>
         <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-official.svg" alt="digitalocean"
