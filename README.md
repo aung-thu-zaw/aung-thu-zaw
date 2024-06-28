@@ -180,7 +180,7 @@
             <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" width="40" height="40" />
         </a>
         <a href="https://www.apple.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=macos" alt="macos" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="macos" width="40" height="40" />
         </a>
     </div>
 </div>
