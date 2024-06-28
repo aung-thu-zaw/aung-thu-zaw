@@ -101,7 +101,7 @@
 </div>
 
 <div>
-    <h3 align="left">Backend Frameworks, APIs:</h3>
+    <h3 align="left">Backend Frameworks, Services and APIs:</h3>
     <div align="left">
         <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40" />
@@ -115,11 +115,17 @@
         <a href="https://graphql.org/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40" />
         </a>
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40" />
+        </a>
+        <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=supabase" alt="supabase" width="40" height="40" />
+        </a>
     </div>
 </div>
 
 <div>
-    <h3 align="left">Databases:</h3>
+    <h3 align="left">Databases and Tools:</h3>
     <div align="left">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40" />
@@ -132,6 +138,9 @@
         </a>
         <a href="https://redis.io/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40" />
+        </a>
+        <a href="https://prisma.io/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40" />
         </a>
     </div>
 </div>
