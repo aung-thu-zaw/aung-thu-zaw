@@ -189,7 +189,7 @@ I'm Aung Thu Zaw, a passionate Fullstack Web Developer with a strong background 
                 width="40" height="40" />
         </a>
         <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+            <img src="https://skillicons.dev/icons?i=nginx"
                 alt="nginx" width="40" height="40" />
         </a>
     </div>
@@ -212,7 +212,7 @@ I'm Aung Thu Zaw, a passionate Fullstack Web Developer with a strong background 
             <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40" />
         </a>
         <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=pr" alt="photoshop"
+            <img src="https://skillicons.dev/icons?i=ps" alt="photoshop"
                 width="40" height="40" />
         </a>
         <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
