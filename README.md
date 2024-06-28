@@ -115,9 +115,9 @@ I'm Aung Thu Zaw, a passionate Fullstack Web Developer with a strong background 
         <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40" />
         </a>
-        <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
+        <!-- <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
             <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="chartjs" width="40" height="40" />
-        </a>
+        </a> -->
     </div>
 </div>
 
