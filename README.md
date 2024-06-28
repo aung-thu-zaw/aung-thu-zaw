@@ -56,6 +56,14 @@ I'm Aung Thu Zaw, a passionate Fullstack Web Developer with a strong background 
 <div>
     <h3 align="left">Languages:</h3>
     <div align="left">
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=html"
+                alt="html5" width="40" height="40" />
+        </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=css"
+                alt="css3" width="40" height="40" />
+        </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=js"
                 alt="javascript" width="40" height="40" />
@@ -68,14 +76,6 @@ I'm Aung Thu Zaw, a passionate Fullstack Web Developer with a strong background 
             <img src="https://skillicons.dev/icons?i=php"
                 width="40" height="40" />
         </a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=html"
-                alt="html5" width="40" height="40" />
-        </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=css"
-                alt="css3" width="40" height="40" />
-        </a>
     </div>
 </div>
 
@@ -83,34 +83,34 @@ I'm Aung Thu Zaw, a passionate Fullstack Web Developer with a strong background 
     <h3 align="left">Frontend:</h3>
     <div align="left">
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            <img src="https://skillicons.dev/icons?i=react"
                 alt="react" width="40" height="40" />
         </a>
         <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+            <img src="https://skillicons.dev/icons?i=vue"
                 alt="vuejs" width="40" height="40" />
         </a>
         <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://nuxtjs.org/design-kit/colored-text.svg" alt="nuxtjs" width="40" height="40" />
+            <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40" />
         </a>
         <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
+            <img src="https://skillicons.dev/icons?i=sass" alt="sass"
                 width="40" height="40" />
         </a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
+            <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40"
                 height="40" />
         </a>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            <img src="https://skillicons.dev/icons?i=bootstrap"
                 alt="bootstrap" width="40" height="40" />
         </a>
         <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" alt="vite" width="40"
+            <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="40"
                 height="40" />
         </a>
         <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"
+            <img src="https://skillicons.dev/icons?i=webpack"
                 alt="webpack" width="40" height="40" />
         </a>
         <a href="https://d3js.org/" target="_blank" rel="noreferrer">
