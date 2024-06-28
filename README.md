@@ -3,19 +3,11 @@
 <h1 align="center">Hi<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />, I'm Aung Thu Zaw</h1>
 <h3 align="center">Fullstack Web Developer</h3>
 
-# [![trophy](https://github-profile-trophy.vercel.app/?username=aung-thu-zaw&theme=onestar)](https://github.com/aung-thu-zaw/github-profile-trophy)
-
+<!--<div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=aung-thu-zaw&theme=onestar)](https://github.com/aung-thu-zaw/github-profile-trophy)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aung-thu-zaw&label=Profile%20views&color=0e75b6&style=flat" alt="aung-thu-zaw" /> </p>
+</div> -->
 
-- 🔭 I’m currently working on [Global Ecommerce Website](https://github.com/Aung-Thu-Zaw/Global-Ecommerce-Website)
-
-- 🌱 I’m currently learning **Typescript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/aung-thu-zaw?tab=repositories](https://github.com/aung-thu-zaw?tab=repositories)
-
-
-
-- =======
 
 * 🌍  I'm based in Myanmar, Tanintharyi
   
@@ -27,7 +19,9 @@
   
 * 🧠  I’m currently learning **Website Deployment**
 
-* 💬  Ask me about **Laravel**
+* 👨‍💻  All of my projects are available at [https://github.com/aung-thu-zaw?tab=repositories](https://github.com/aung-thu-zaw?tab=repositories)
+
+* 💬  Ask me about **Vue JS & Laravel**
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aung-thu-zaw&theme=github-dark-blue&border_radius=3&mode=weekly)](https://git.io/streak-stats)
 
