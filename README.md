@@ -202,26 +202,45 @@
         </a>
     </div>
 </div>
+
 <div>
-    <h3 align="left">Tools:</h3>
+    <h3 align="left">Development Tools & Utilities:</h3>
     <div align="left">
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40" />
-        </a>
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40" />
+        </a>
+        <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=phpstorm" alt="phpstorm" width="40" height="40" />
         </a>
         <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=vim" alt="vim" width="40" height="40" />
         </a>
-        <a href=" https://figma.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40" />
-        </a>
         <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" width="40" height="40" />
         </a>
+        <a href=" https://figma.com/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40" />
+        </a>
         <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40" />
+        </a>
+        <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="40" height="40" />
+        </a>
+        <a href="https://www.yarnpkg.com/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=yarn" alt="yarn" width="40" height="40" />
+        </a>
+        <a href="https://www.bun.sh/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=bun" alt="bun" width="40" height="40" />
+        </a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40" />
+        </a>
+        <a href="https://www.about.gitlab.com/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="40" height="40" />
+        </a>
+        <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=markdown" alt="markdown" width="40" height="40" />
         </a>
     </div>
 </div>
