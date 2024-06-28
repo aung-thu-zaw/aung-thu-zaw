@@ -13,11 +13,21 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aung-thu-zaw?tab=repositories](https://github.com/aung-thu-zaw?tab=repositories)
 
-- 💬 Ask me about **Laravel**
 
-- 📫 How to reach me **aungthuzaw003@gmail.com**
 
-- ⚡ Fun fact **I think I'm smart**
+- =======
+
+* 🌍  I'm based in Myanmar, Tanintharyi
+  
+* 🖥️  See my portfolio at [https://aung-thu-zaw.dev](https://my-portfolio.dev)
+  
+* 📫  How to reach me [aungthuzaw003@gmail.com](mailto:aungthuzaw003@gmail.com)
+  
+* 🚀  I'm currently working on [Creative Coders Myanmar](https://creativecodermm.com)
+  
+* 🧠  I’m currently learning **Website Deployment**
+
+* 💬  Ask me about **Laravel**
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aung-thu-zaw&theme=github-dark-blue&border_radius=3&mode=weekly)](https://git.io/streak-stats)
 
