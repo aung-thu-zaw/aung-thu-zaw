@@ -170,7 +170,7 @@ I'm Aung Thu Zaw, a passionate Fullstack Web Developer with a strong background 
     <h3 align="left">DevOps & Cloud:</h3>
     <div align="left">
         <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=all"
+            <img src="https://skillicons.dev/icons?i=aws"
                 alt="aws" width="40" height="40" />
         </a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
