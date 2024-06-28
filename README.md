@@ -90,6 +90,10 @@ I'm Aung Thu Zaw, a passionate Fullstack Web Developer with a strong background 
             <img src="https://skillicons.dev/icons?i=vue"
                 alt="vuejs" width="40" height="40" />
         </a>
+        <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=alpinejs"
+                alt="vuejs" width="40" height="40" />
+        </a>
         <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40" />
         </a>
@@ -114,7 +118,7 @@ I'm Aung Thu Zaw, a passionate Fullstack Web Developer with a strong background 
                 alt="webpack" width="40" height="40" />
         </a>
         <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js"
+            <img src="https://skillicons.dev/icons?i=d3" alt="d3js"
                 width="40" height="40" />
         </a>
         <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
@@ -127,19 +131,19 @@ I'm Aung Thu Zaw, a passionate Fullstack Web Developer with a strong background 
     <h3 align="left">Backend:</h3>
     <div align="left">
         <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            <img src="https://skillicons.dev/icons?i=nodejs"
                 alt="nodejs" width="40" height="40" />
         </a>
         <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+            <img src="https://skillicons.dev/icons?i=express"
                 alt="express" width="40" height="40" />
         </a>
         <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg"
+            <img src="https://skillicons.dev/icons?i=graphql"
                 alt="graphql" width="40" height="40" />
         </a>
         <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+            <img src="https://skillicons.dev/icons?i=laravel"
                 alt="laravel" width="40" height="40" />
         </a>
     </div>
@@ -149,18 +153,18 @@ I'm Aung Thu Zaw, a passionate Fullstack Web Developer with a strong background 
     <h3 align="left">Databases:</h3>
     <div align="left">
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            <img src="https://skillicons.dev/icons?i=mongodb"
                 alt="mongodb" width="40" height="40" />
         </a>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            <img src="https://skillicons.dev/icons?i=mysql"
                 alt="mysql" width="40" height="40" />
         </a>
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
+            <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40" />
         </a>
         <a href="https://redis.io/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+            <img src="https://skillicons.dev/icons?i=redis"
                 alt="redis" width="40" height="40" />
         </a>
     </div>
@@ -195,24 +199,24 @@ I'm Aung Thu Zaw, a passionate Fullstack Web Developer with a strong background 
     <h3 align="left">Tools:</h3>
     <div align="left">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+            <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40" />
         </a>
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"
+            <img src="https://skillicons.dev/icons?i=vscode"
                 alt="vscode" width="40" height="40" />
         </a>
         <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="" />
+            <img src="https://skillicons.dev/icons?i=vim" alt="" />
         </a>
         <a href=" https://figma.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+            <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40" />
         </a>
         <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/adobe_photoshop/adobe_photoshop-icon.svg" alt="photoshop"
+            <img src="https://skillicons.dev/icons?i=pr" alt="photoshop"
                 width="40" height="40" />
         </a>
         <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
+            <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40"
                 height="40" />
         </a>
     </div>
@@ -222,7 +226,7 @@ I'm Aung Thu Zaw, a passionate Fullstack Web Developer with a strong background 
     <h3 align="left">Testing & Automation:</h3>
     <div align="left">
         <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/cypress-io/cypress-io-icon.svg" alt="cypress" width="40"
+            <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40"
                 height="40" />
         </a>
         <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
