@@ -22,7 +22,7 @@ I'm Aung Thu Zaw, a passionate Fullstack Web Developer with a strong background 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aung-thu-zaw&label=Profile%20views&color=0e75b6&style=flat" alt="aung-thu-zaw" /> </p>
 </div> -->
 
-***
+---
 
 * 🌍  I'm based in Myanmar, Tanintharyi
   
