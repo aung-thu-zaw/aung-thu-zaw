@@ -10,6 +10,11 @@
 <h3 align="center">
   Fullstack Web Developer
 </h3>
+
+<p align="center">
+I'm Aung Thu Zaw, a passionate Fullstack Web Developer with a strong background in both frontend and backend technologies. I love creating web applications that are both visually appealing and functionally robust.
+
+</p>
 </div>
 
 <!--<div>
