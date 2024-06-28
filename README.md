@@ -17,7 +17,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aung-thu-zaw&label=Profile%20views&color=0e75b6&style=flat" alt="aung-thu-zaw" /> </p>
 </div> -->
 
-
+***
 * 🌍  I'm based in Myanmar, Tanintharyi
   
 * 🚀  I'm currently working on [Creative Coders Myanmar](https://creativecodermm.com)
@@ -31,7 +31,7 @@
 * 💬  Ask me about "**Vue JS & Laravel**"
   
 * 📫  How to reach me [aungthuzaw003@gmail.com](mailto:aungthuzaw003@gmail.com)
-  
+***
 
 <!--<div>
 [![GitHub Streak](https://streak-stats.demolab.com?user=aung-thu-zaw&theme=github-dark-blue&border_radius=3&mode=weekly)](https://git.io/streak-stats)
