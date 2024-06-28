@@ -26,9 +26,9 @@
 
 * 👨‍💻  All of my projects are available at [https://github.com/aung-thu-zaw?tab=repositories](https://github.com/aung-thu-zaw?tab=repositories)
 
-* 🧠  I’m currently learning "**Server & Website Deployment**"
+* 🧠  I’m currently learning "*Server & Website Deployment*"
 
-* 💬  Ask me about "**Vue JS & Laravel**"
+* 💬  Ask me about "*Vue JS & Laravel*"
   
 * 📫  How to reach me [aungthuzaw003@gmail.com](mailto:aungthuzaw003@gmail.com)
   
