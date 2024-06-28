@@ -160,14 +160,6 @@
 <div>
     <h3 align="left">DevOps & Cloud:</h3>
     <div align="left">
-        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=aws"
-                alt="aws" width="40" height="40" />
-        </a>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=docker"
-                alt="docker" width="40" height="40" />
-        </a>
         <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40" />
         </a>
@@ -175,13 +167,23 @@
             <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-official.svg" alt="digitalocean"
                 width="40" height="40" />
         </a>
+        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40" />
+        </a>
         <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=nginx"
-                alt="nginx" width="40" height="40" />
+            <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40" />
+        </a>
+        <a href="https://www.vercel.com/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40" height="40" />
+        </a>
+        <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" width="40" height="40" />
+        </a>
+        <a href="https://www.apple.com/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=macos" alt="macos" width="40" height="40" />
         </a>
     </div>
 </div>
-
 <div>
     <h3 align="left">Tools:</h3>
     <div align="left">
