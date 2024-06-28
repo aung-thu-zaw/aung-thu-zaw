@@ -3,6 +3,8 @@
 <h1 align="center">Hi There, I'm Aung Thu Zaw</h1>
 <h3 align="center">Fullstack Web Developer</h3>
 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aung Thu Zaw
+
 # [![trophy](https://github-profile-trophy.vercel.app/?username=aung-thu-zaw&theme=onestar)](https://github.com/aung-thu-zaw/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aung-thu-zaw&label=Profile%20views&color=0e75b6&style=flat" alt="aung-thu-zaw" /> </p>
