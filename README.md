@@ -57,23 +57,23 @@ I'm Aung Thu Zaw, a passionate Fullstack Web Developer with a strong background 
     <h3 align="left">Languages:</h3>
     <div align="left">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            <img src="https://skillicons.dev/icons?i=js"
                 alt="javascript" width="40" height="40" />
         </a>
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            <img src="https://skillicons.dev/icons?i=ts"
                 alt="typescript" width="40" height="40" />
         </a>
         <a href="https://www.php.net" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
+            <img src="https://skillicons.dev/icons?i=php"
                 width="40" height="40" />
         </a>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            <img src="https://skillicons.dev/icons?i=html"
                 alt="html5" width="40" height="40" />
         </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            <img src="https://skillicons.dev/icons?i=css"
                 alt="css3" width="40" height="40" />
         </a>
     </div>
@@ -174,7 +174,7 @@ I'm Aung Thu Zaw, a passionate Fullstack Web Developer with a strong background 
                 alt="aws" width="40" height="40" />
         </a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+            <img src="https://skillicons.dev/icons?i=docker"
                 alt="docker" width="40" height="40" />
         </a>
         <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
