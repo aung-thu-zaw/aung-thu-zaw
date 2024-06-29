@@ -50,7 +50,7 @@
         <td>
             <h3 align="center">
                 <img src="https://media3.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b952co7ainlysys0c3wa2tudzjo7ileit6b6s7gib34b&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"
-                width="30px" style="margin-right: 10px;">
+                    width="30px" style="margin-right: 10px;">
                 My Top Hand-on Projects
             </h3>
             <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
@@ -62,38 +62,38 @@
                     <a href="https://github.com/aung-thu-zaw/Multi-Seller-E-commerce-Platform"
                         style="margin-right: 5px;">
                         <img width="48%"
-                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Multi-Seller-E-commerce-Platform&title_color=0a84ff&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" /></a>
+                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Multi-Seller-E-commerce-Platform&title_color=c9d1d9&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" /></a>
                     <a href="https://github.com/aung-thu-zaw/ConnectVerse-Frontend-React" style="margin-left: 5px;">
                         <img width="48%"
-                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=ConnectVerse-Frontend-React&title_color=0a84ff&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" />
+                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=ConnectVerse-Frontend-React&title_color=c9d1d9&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" />
                     </a>
                 </div>
-            <div>
-                <div width="100%" align="center">
-                    <a href="https://github.com/aung-thu-zaw/E-Learning-Platform-With-Nuxt"
-                        style="margin-right: 5px;">
-                        <img width="48%"
-                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=E-Learning-Platform-With-Nuxt&title_color=0a84ff&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" /></a>
-                    <a href="https://github.com/aung-thu-zaw/E-Learning-Platform-Backend-Api" style="margin-left: 5px;">
-                        <img width="48%"
-                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=E-Learning-Platform-Backend-Api&title_color=0a84ff&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" />
-                    </a>
+                <div>
+                    <div width="100%" align="center">
+                        <a href="https://github.com/aung-thu-zaw/E-Learning-Platform-With-Nuxt"
+                            style="margin-right: 5px;">
+                            <img width="48%"
+                                src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=E-Learning-Platform-With-Nuxt&title_color=c9d1d9&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" /></a>
+                        <a href="https://github.com/aung-thu-zaw/E-Learning-Platform-Backend-Api"
+                            style="margin-left: 5px;">
+                            <img width="48%"
+                                src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=E-Learning-Platform-Backend-Api&title_color=c9d1d9&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" />
+                        </a>
+                    </div>
+                    <div width="100%" align="center">
+                        <a href="https://github.com/aung-thu-zaw/Resaturant-Frontend" style="margin-right: 5px;">
+                            <img width="48%"
+                                src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Resaturant-Frontend&title_color=c9d1d9&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" /></a>
+                        <a href="https://github.com/aung-thu-zaw/Restaurant-Backend-Api" style="margin-left: 5px;">
+                            <img width="48%"
+                                src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Restaurant-Backend-Api&title_color=c9d1d9&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" />
+                        </a>
+                    </div>
                 </div>
-                <div width="100%" align="center">
-                    <a href="https://github.com/aung-thu-zaw/Resaturant-Frontend"
-                        style="margin-right: 5px;">
-                        <img width="48%"
-                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Resaturant-Frontend&title_color=0a84ff&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" /></a>
-                    <a href="https://github.com/aung-thu-zaw/Restaurant-Backend-Api" style="margin-left: 5px;">
-                        <img width="48%"
-                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Restaurant-Backend-Api&title_color=0a84ff&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" />
-                    </a>
-                </div>
-            </div>
         </td>
     </tr>
 </table>
-
+                
 <table align="center" width="100%">
     <tr width="100%">
         <td>
