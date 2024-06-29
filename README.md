@@ -49,8 +49,8 @@
     <tr>
         <td>
             <h3 align="center">
-                <img src="https://media3.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b952co7ainlysys0c3wa2tudzjo7ileit6b6s7gib34b&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"
-                    width="30px" style="margin-right: 10px;">
+                <img src="https://media4.giphy.com/media/wX7I4l8SfFyG8rqhsd/giphy.gif?cid=6c09b9524bcwb5lur47oi53y1nnwhx7go4nv06de0q14weu6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"
+                    width="28px" style="margin-right: 10px;">
                 My Top Hand-on Projects
             </h3>
             <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
