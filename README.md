@@ -31,45 +31,50 @@
 <br/>
 
 
-<table align="center" style="width: 100%; border-collapse: collapse;">
-    <tr style="border: none;">
-        <td style="width: 33.33%; vertical-align: top; padding: 5px; border: none;">
-            <a href="https://github.com/aung-thu-zaw/Multi-Seller-E-commerce-Platform">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Multi-Seller-E-commerce-Platform&title_color=f97316&text_color=8b949e&icon_color=ffffff&bg_color=0d1117&hide_border=true&locale=en"
-                    width="100%" />
-            </a>
-        </td>
-        <td style="width: 33.33%; vertical-align: top; padding: 5px; border: none;">
-            <a href="https://github.com/aung-thu-zaw/Multi-Seller-E-commerce-Platform">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Multi-Seller-E-commerce-Platform&title_color=f97316&text_color=8b949e&icon_color=ffffff&bg_color=0d1117&hide_border=true&locale=en"
-                    width="100%" />
-            </a>
-        </td>
-        <td style="width: 33.33%; vertical-align: top; padding: 5px; border: none;">
-            <a href="https://github.com/aung-thu-zaw/Multi-Seller-E-commerce-Platform">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Multi-Seller-E-commerce-Platform&title_color=f97316&text_color=8b949e&icon_color=ffffff&bg_color=0d1117&hide_border=true&locale=en"
-                    width="100%" />
-            </a>
-        </td>
-    </tr>
-    <tr style="border: none;">
-        <td style="width: 33.33%; vertical-align: top; padding: 5px; border: none;">
-            <a href="https://github.com/aung-thu-zaw/Multi-Seller-E-commerce-Platform">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Multi-Seller-E-commerce-Platform&title_color=f97316&text_color=8b949e&icon_color=ffffff&bg_color=0d1117&hide_border=true&locale=en"
-                    width="100%" />
-            </a>
-        </td>
-        <td style="width: 33.33%; vertical-align: top; padding: 5px; border: none;">
-            <a href="https://github.com/aung-thu-zaw/Multi-Seller-E-commerce-Platform">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Multi-Seller-E-commerce-Platform&title_color=f97316&text_color=8b949e&icon_color=ffffff&bg_color=0d1117&hide_border=true&locale=en"
-                    width="100%" />
-            </a>
-        </td>
-        <td style="width: 33.33%; vertical-align: top; padding: 5px; border: none;">
-            <a href="https://github.com/aung-thu-zaw/Multi-Seller-E-commerce-Platform">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Multi-Seller-E-commerce-Platform&title_color=f97316&text_color=8b949e&icon_color=ffffff&bg_color=0d1117&hide_border=true&locale=en"
-                    width="100%" />
-            </a>
+
+
+<table align="center">
+    <tr>
+        <td>
+            <h3 align="center">
+                🏆 My Top Hand-on Projects
+            </h3>
+            <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
+                    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+            <div>
+                <div width="100%" align="center">
+                    <a href="https://github.com/aung-thu-zaw/Multi-Seller-E-commerce-Platform" align="left">
+                        <img align="left" width="45%"
+                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Multi-Seller-E-commerce-Platform&title_color=1e904d&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" /></a>
+                    <a href="https://github.com/aung-thu-zaw/Advanced-Blog-Platform" align="right">
+                        <img align="right" width="45%"
+                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Advanced-Blog-Platform&title_color=1e904d&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" />
+                    </a>
+                </div>
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <div width="100%" align="center">
+                    <a href="https://github.com/aung-thu-zaw/Inventory-POS-Dashboard" align="left">
+                        <img align="left" width="45%"
+                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Inventory-POS-Dashboard&title_color=1e904d&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" /></a>
+                    <a href="https://github.com/aung-thu-zaw/ConnectVerse-Backend-Api" align="right">
+                        <img align="right" width="45%"
+                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=ConnectVerse-Backend-Api&title_color=1e904d&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" />
+                    </a>
+                </div>
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+            </div>
         </td>
     </tr>
 </table>
