@@ -45,6 +45,11 @@
 
 <br/>
 
+<a href="https://www.github.com/aung-thu-zaw" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/aung-thu-zaw?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
+
+<br/>
+
 <table align="center">
     <tr>
         <td>
@@ -363,4 +368,3 @@
         </td>
     </tr>
 </table>
-
