@@ -4,7 +4,6 @@
         width="40%" style="object-fit: contain;" />
 </div>
 
-
 <div>
     <h1 align="center">
         Hi
@@ -30,6 +29,21 @@
     </p>
 <br/>
 
+* 🌍  I'm based in Myanmar, Tanintharyi
+  
+* 🚀  I'm currently working on [Creative Coders Myanmar](https://creativecodermm.com)
+  
+* 🖥️  See my portfolio at [https://aung-thu-zaw.github.io/portfolio/](https://aung-thu-zaw.github.io/portfolio/)
+
+* 👨‍💻  All of my projects are available at [https://github.com/aung-thu-zaw?tab=repositories](https://github.com/aung-thu-zaw?tab=repositories)
+
+* 🧠  I’m currently learning "**Server & Website Deployment**"
+
+* 💬  Ask me about "**Vue JS & Laravel**"
+  
+* 📫  How to reach me [aungthuzaw003@gmail.com](mailto:aungthuzaw003@gmail.com)
+
+<br/>
 
 <table align="center">
     <tr>
@@ -46,43 +60,37 @@
                     <a href="https://github.com/aung-thu-zaw/Multi-Seller-E-commerce-Platform"
                         style="margin-right: 5px;">
                         <img width="48%"
-                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Multi-Seller-E-commerce-Platform&title_color=1e904d&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" /></a>
-                    <a href="https://github.com/aung-thu-zaw/Advanced-Blog-Platform" style="margin-left: 5px;">
+                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Multi-Seller-E-commerce-Platform&title_color=0a84ff&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" /></a>
+                    <a href="https://github.com/aung-thu-zaw/ConnectVerse-Frontend-React" style="margin-left: 5px;">
                         <img width="48%"
-                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Advanced-Blog-Platform&title_color=1e904d&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" />
+                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=ConnectVerse-Frontend-React&title_color=0a84ff&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" />
+                    </a>
+                </div>
+            <div>
+                <div width="100%" align="center">
+                    <a href="https://github.com/aung-thu-zaw/E-Learning-Platform-With-Nuxt"
+                        style="margin-right: 5px;">
+                        <img width="48%"
+                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=E-Learning-Platform-With-Nuxt&title_color=0a84ff&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" /></a>
+                    <a href="https://github.com/aung-thu-zaw/E-Learning-Platform-Backend-Api" style="margin-left: 5px;">
+                        <img width="48%"
+                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=E-Learning-Platform-Backend-Api&title_color=0a84ff&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" />
                     </a>
                 </div>
                 <div width="100%" align="center">
-                    <a href="https://github.com/aung-thu-zaw/Multi-Seller-E-commerce-Platform"
+                    <a href="https://github.com/aung-thu-zaw/Resaturant-Frontend"
                         style="margin-right: 5px;">
                         <img width="48%"
-                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Multi-Seller-E-commerce-Platform&title_color=1e904d&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" /></a>
-                    <a href="https://github.com/aung-thu-zaw/Advanced-Blog-Platform" style="margin-left: 5px;">
+                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Resaturant-Frontend&title_color=0a84ff&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" /></a>
+                    <a href="https://github.com/aung-thu-zaw/Restaurant-Backend-Api" style="margin-left: 5px;">
                         <img width="48%"
-                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Advanced-Blog-Platform&title_color=1e904d&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" />
+                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Restaurant-Backend-Api&title_color=0a84ff&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" />
                     </a>
                 </div>
             </div>
         </td>
     </tr>
 </table>
-
-
-* 🌍  I'm based in Myanmar, Tanintharyi
-  
-* 🚀  I'm currently working on [Creative Coders Myanmar](https://creativecodermm.com)
-  
-* 🖥️  See my portfolio at [https://aung-thu-zaw.github.io/portfolio/](https://aung-thu-zaw.github.io/portfolio/)
-
-* 👨‍💻  All of my projects are available at [https://github.com/aung-thu-zaw?tab=repositories](https://github.com/aung-thu-zaw?tab=repositories)
-
-* 🧠  I’m currently learning "**Server & Website Deployment**"
-
-* 💬  Ask me about "**Vue JS & Laravel**"
-  
-* 📫  How to reach me [aungthuzaw003@gmail.com](mailto:aungthuzaw003@gmail.com)
-
-<br/>
 
 <table align="center" width="100%">
     <tr width="100%">
