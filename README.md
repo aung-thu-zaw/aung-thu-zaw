@@ -32,6 +32,8 @@
   
 * 📫  How to reach me [aungthuzaw003@gmail.com](mailto:aungthuzaw003@gmail.com)
 
+<h2 align="left">🛠️ Technologies That I Know and I've Worked With</h3>
+
 <div>
     <h3 align="left">Languages:</h3>
     <div align="left">
