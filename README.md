@@ -31,7 +31,6 @@
 <br/>
 
 
-
 <table align="center">
     <tr>
         <td>
@@ -44,27 +43,31 @@
             <br />
             <div>
                 <div width="100%" align="center">
-                    <a href="https://github.com/aung-thu-zaw/Multi-Seller-E-commerce-Platform">
+                    <a href="https://github.com/aung-thu-zaw/Multi-Seller-E-commerce-Platform"
+                        style="margin-right: 5px;">
                         <img width="48%"
                             src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Multi-Seller-E-commerce-Platform&title_color=1e904d&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" /></a>
-                    <a href="https://github.com/aung-thu-zaw/Advanced-Blog-Platform">
+                    <a href="https://github.com/aung-thu-zaw/Advanced-Blog-Platform" style="margin-left: 5px;">
                         <img width="48%"
                             src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Advanced-Blog-Platform&title_color=1e904d&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" />
                     </a>
                 </div>
                 <div width="100%" align="center">
-                    <a href="https://github.com/aung-thu-zaw/Inventory-POS-Dashboard">
+                    <a href="https://github.com/aung-thu-zaw/Multi-Seller-E-commerce-Platform"
+                        style="margin-right: 5px;">
                         <img width="48%"
-                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Inventory-POS-Dashboard&title_color=1e904d&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" /></a>
-                    <a href="https://github.com/aung-thu-zaw/ConnectVerse-Backend-Api">
+                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Multi-Seller-E-commerce-Platform&title_color=1e904d&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" /></a>
+                    <a href="https://github.com/aung-thu-zaw/Advanced-Blog-Platform" style="margin-left: 5px;">
                         <img width="48%"
-                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=ConnectVerse-Backend-Api&title_color=1e904d&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" />
+                            src="https://github-readme-stats.vercel.app/api/pin/?username=aung-thu-zaw&repo=Advanced-Blog-Platform&title_color=1e904d&text_color=8b949e&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en" />
                     </a>
                 </div>
             </div>
         </td>
     </tr>
 </table>
+
+
 * 🌍  I'm based in Myanmar, Tanintharyi
   
 * 🚀  I'm currently working on [Creative Coders Myanmar](https://creativecodermm.com)
