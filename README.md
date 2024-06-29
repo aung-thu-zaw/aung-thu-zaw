@@ -97,7 +97,7 @@
             <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40" />
         </a>
         <a href="https://vuex.vuejs.org/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=vuex" alt="vuex" width="40" height="40" />
+            <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" alt="vuex" width="40" height="40" />
         </a>
         <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=pinia" alt="pinia" width="40" height="40" />
