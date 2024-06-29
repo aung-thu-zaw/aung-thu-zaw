@@ -4,6 +4,7 @@
         width="40%" style="object-fit: contain;" />
 </div>
 
+
 <div>
     <h1 align="center">
         Hi
@@ -14,20 +15,26 @@
     <h3 align="center">
         Fullstack Web Developer
     </h3>
-    <br/>
-    <p align="center">
-        I'm Aung Thu Zaw, a passionate Fullstack Web Developer with a strong background in both frontend and backend
-        technologies. I love creating web applications that are both visually appealing and functionally robust.
-    </p>
 </div>
 
+<br/>
+    <p align="center">
+        Hi there! 👋🏼 I'm Aung Thu Zaw from Myanmar, a self-taught Full Stack Web Developer with a deep passion for
+        creating dynamic and responsive web applications. Since 2020, I've been honing my skills and knowledge in web
+        development through self-study and hands-on projects. I embarked on my web development journey in 2020, fueled
+        by a
+        passion for technology and a desire to build impactful web applications. Through platforms like Udemy,
+        Skillshare,Laracast, Vue Mastery and YouTube, I've acquired a robust understanding of both front-end and
+        back-end
+        development.
+    </p>
 <br/>
 
 * 🌍  I'm based in Myanmar, Tanintharyi
   
 * 🚀  I'm currently working on [Creative Coders Myanmar](https://creativecodermm.com)
   
-* 🖥️  See my portfolio at [https://aung-thu-zaw.dev](https://my-portfolio.dev)
+* 🖥️  See my portfolio at [https://aung-thu-zaw.github.io/portfolio/](https://aung-thu-zaw.github.io/portfolio/)
 
 * 👨‍💻  All of my projects are available at [https://github.com/aung-thu-zaw?tab=repositories](https://github.com/aung-thu-zaw?tab=repositories)
 
@@ -38,7 +45,6 @@
 * 📫  How to reach me [aungthuzaw003@gmail.com](mailto:aungthuzaw003@gmail.com)
 
 <br/>
-
 
 <table align="center" width="100%">
     <tr width="100%">
