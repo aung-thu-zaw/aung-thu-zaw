@@ -37,6 +37,28 @@
 
 <table align="center" width="100%">
     <tr width="100%">
+        <td>
+            <h4 align="center" style="writing-mode: vertical-lr; text-align: center; white-space: nowrap;">
+                <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=30px>
+                <br />
+                <br />
+                My
+                <br />
+                <br />
+                GitHub
+                <br />
+                <br />
+                Activity
+                <br />
+                <br />
+                and
+                <br />
+                <br />
+                Stats
+            </h4>
+            <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
+                    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+        </td>
         <td width="60%" align="center">
             <a href="http://www.github.com/aung-thu-zaw"><img
                     src="https://github-readme-stats.vercel.app/api?username=aung-thu-zaw&show_icons=true&hide=&count_private=true&title_color=f87315&text_color=8b949e&icon_color=ffffff&bg_color=0d1117&hide_border=true&show_icons=true"
