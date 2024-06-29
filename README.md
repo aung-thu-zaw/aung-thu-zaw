@@ -10,11 +10,14 @@
     <h3 align="center">
         Fullstack Web Developer
     </h3>
+    <br/>
     <p align="center">
         I'm Aung Thu Zaw, a passionate Fullstack Web Developer with a strong background in both frontend and backend
         technologies. I love creating web applications that are both visually appealing and functionally robust.
     </p>
 </div>
+
+<br/>
 
 * 🌍  I'm based in Myanmar, Tanintharyi
   
@@ -32,223 +35,220 @@
 
 <br/>
 
-<h3 align="center">
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
-        width="20px" style="margin-right: 10px;">
-    Technologies That I Know and I've Worked With
-</h3>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<div>
-    <h4 align="center">Languages</h4>
-    <div align="center">
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=html"
-                alt="html5" width="40" height="40" />
-        </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=css"
-                alt="css3" width="40" height="40" />
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=js"
-                alt="javascript" width="40" height="40" />
-        </a>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=ts"
-                alt="typescript" width="40" height="40" />
-        </a>
-        <a href="https://www.php.net" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=php"
-                width="40" height="40" />
-        </a>
-    </div>
-</div>
-
-<div>
-    <h4 align="center">Frontend Frameworks, Libraries and Tools</h4>
-    <div align="center">
-        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40" />
-        </a>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40" />
-        </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40" />
-        </a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40" />
-        </a>
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40" />
-        </a>
-        <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40" />
-        </a>
-        <a href="https://remix.run/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=remix" alt="remix" width="40" height="40" />
-        </a>
-        <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40" />
-        </a>
-        <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40" />
-        </a>
-        <a href="https://vuex.vuejs.org/" target="_blank" rel="noreferrer">
-            <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" alt="vuex" width="40" height="40" />
-        </a>
-        <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=pinia" alt="pinia" width="40" height="40" />
-        </a>
-        <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=alpinejs" alt="vuejs" width="40" height="40" />
-        </a>
-        <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=d3" alt="d3js" width="40" height="40" />
-        </a>
-        <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="40" height="40" />
-        </a>
-        <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40" />
-        </a>
-        <!-- <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
+<table align="center">
+    <tr>
+        <td>
+            <h3 align="center">
+                <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+                    width="20px" style="margin-right: 10px;">
+                Technologies That I Know and I've Worked With
+            </h3>
+            <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
+                    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+            <div>
+                <h4 align="center">Languages</h4>
+                <div align="center">
+                    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40" />
+                    </a>
+                    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40" />
+                    </a>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40" />
+                    </a>
+                    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40" />
+                    </a>
+                    <a href="https://www.php.net" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=php" width="40" height="40" />
+                    </a>
+                </div>
+            </div>
+            <div>
+                <h4 align="center">Frontend Frameworks, Libraries and Tools</h4>
+                <div align="center">
+                    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40" />
+                    </a>
+                    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40" />
+                    </a>
+                    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40" />
+                    </a>
+                    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40" />
+                    </a>
+                    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40" />
+                    </a>
+                    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40" />
+                    </a>
+                    <a href="https://remix.run/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=remix" alt="remix" width="40" height="40" />
+                    </a>
+                    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40" />
+                    </a>
+                    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40" />
+                    </a>
+                    <a href="https://vuex.vuejs.org/" target="_blank" rel="noreferrer">
+                        <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png"
+                            alt="vuex" width="40" height="40" />
+                    </a>
+                    <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=pinia" alt="pinia" width="40" height="40" />
+                    </a>
+                    <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=alpinejs" alt="vuejs" width="40" height="40" />
+                    </a>
+                    <a href="https://d3js.org/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=d3" alt="d3js" width="40" height="40" />
+                    </a>
+                    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="40" height="40" />
+                    </a>
+                    <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40" />
+                    </a>
+                    <!-- <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
             <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="chartjs" width="40" height="40" />
         </a> -->
-    </div>
-</div>
-
-<div>
-    <h4 align="center">Backend Frameworks, Services and APIs</h4>
-    <div align="center">
-        <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40" />
-        </a>
-        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40" />
-        </a>
-        <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40" />
-        </a>
-        <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40" />
-        </a>
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40" />
-        </a>
-        <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=supabase" alt="supabase" width="40" height="40" />
-        </a>
-    </div>
-</div>
-
-<div>
-    <h4 align="center">Databases and Tools</h4>
-    <div align="center">
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40" />
-        </a>
-        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40" />
-        </a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40" />
-        </a>
-        <a href="https://redis.io/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40" />
-        </a>
-        <a href="https://prisma.io/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40" />
-        </a>
-    </div>
-</div>
-
-<div>
-    <h4 align="center">Testing & Automation</h4>
-    <div align="center">
-        <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40" />
-        </a>
-        <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40" />
-        </a>
-        <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=vitest" alt="vitest" width="40" height="40" />
-        </a>
-        <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" width="40" height="40" />
-        </a>
-    </div>
-</div>
-
-<div>
-    <h4 align="center">DevOps & Cloud</h4>
-    <div align="center">
-        <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40" />
-        </a>
-        <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-official.svg" alt="digitalocean"
-                width="40" height="40" />
-        </a>
-        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40" />
-        </a>
-        <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40" />
-        </a>
-        <a href="https://www.vercel.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40" height="40" />
-        </a>
-        <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" width="40" height="40" />
-        </a>
-        <a href="https://www.apple.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="macos" width="40" height="40" />
-        </a>
-    </div>
-</div>
-
-<div>
-    <h4 align="center">Development Tools & Utilities</h4>
-    <div align="center">
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40" />
-        </a>
-        <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=phpstorm" alt="phpstorm" width="40" height="40" />
-        </a>
-        <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=vim" alt="vim" width="40" height="40" />
-        </a>
-        <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" width="40" height="40" />
-        </a>
-        <a href=" https://figma.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40" />
-        </a>
-        <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40" />
-        </a>
-        <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="40" height="40" />
-        </a>
-        <a href="https://www.yarnpkg.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=yarn" alt="yarn" width="40" height="40" />
-        </a>
-        <a href="https://www.bun.sh/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=bun" alt="bun" width="40" height="40" />
-        </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40" />
-        </a>
-        <a href="https://www.about.gitlab.com/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="40" height="40" />
-        </a>
-        <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=markdown" alt="markdown" width="40" height="40" />
-        </a>
-    </div>
-</div>
+                </div>
+            </div>
+            <div>
+                <h4 align="center">Backend Frameworks, Services and APIs</h4>
+                <div align="center">
+                    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40" />
+                    </a>
+                    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40" />
+                    </a>
+                    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40" />
+                    </a>
+                    <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40" />
+                    </a>
+                    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40" />
+                    </a>
+                    <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=supabase" alt="supabase" width="40" height="40" />
+                    </a>
+                </div>
+            </div>
+            <div>
+                <h4 align="center">Databases and Tools</h4>
+                <div align="center">
+                    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40" />
+                    </a>
+                    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40" />
+                    </a>
+                    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40" />
+                    </a>
+                    <a href="https://redis.io/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40" />
+                    </a>
+                    <a href="https://prisma.io/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40" />
+                    </a>
+                </div>
+            </div>
+            <div>
+                <h4 align="center">Testing & Automation</h4>
+                <div align="center">
+                    <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40" />
+                    </a>
+                    <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40" />
+                    </a>
+                    <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=vitest" alt="vitest" width="40" height="40" />
+                    </a>
+                    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" width="40"
+                            height="40" />
+                    </a>
+                </div>
+            </div>
+            <div>
+                <h4 align="center">DevOps & Cloud</h4>
+                <div align="center">
+                    <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40" />
+                    </a>
+                    <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-official.svg"
+                            alt="digitalocean" width="40" height="40" />
+                    </a>
+                    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40" />
+                    </a>
+                    <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40" />
+                    </a>
+                    <a href="https://www.vercel.com/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40" height="40" />
+                    </a>
+                    <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" width="40" height="40" />
+                    </a>
+                    <a href="https://www.apple.com/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg"
+                            alt="macos" width="40" height="40" />
+                    </a>
+                </div>
+            </div>
+            <div>
+                <h4 align="center">Development Tools & Utilities</h4>
+                <div align="center">
+                    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40" />
+                    </a>
+                    <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=phpstorm" alt="phpstorm" width="40" height="40" />
+                    </a>
+                    <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=vim" alt="vim" width="40" height="40" />
+                    </a>
+                    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" width="40" height="40" />
+                    </a>
+                    <a href=" https://figma.com/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40" />
+                    </a>
+                    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40" />
+                    </a>
+                    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="40" height="40" />
+                    </a>
+                    <a href="https://www.yarnpkg.com/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=yarn" alt="yarn" width="40" height="40" />
+                    </a>
+                    <a href="https://www.bun.sh/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=bun" alt="bun" width="40" height="40" />
+                    </a>
+                    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40" />
+                    </a>
+                    <a href="https://www.about.gitlab.com/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="40" height="40" />
+                    </a>
+                    <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
+                        <img src="https://skillicons.dev/icons?i=markdown" alt="markdown" width="40" height="40" />
+                    </a>
+                </div>
+            </div>
+        </td>
+    </tr>
+</table>
