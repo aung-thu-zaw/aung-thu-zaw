@@ -16,8 +16,6 @@
     </p>
 </div>
 
----
-
 * 🌍  I'm based in Myanmar, Tanintharyi
   
 * 🚀  I'm currently working on [Creative Coders Myanmar](https://creativecodermm.com)
@@ -32,11 +30,19 @@
   
 * 📫  How to reach me [aungthuzaw003@gmail.com](mailto:aungthuzaw003@gmail.com)
 
-<h2 align="left">🛠️ Technologies That I Know and I've Worked With</h3>
+<br/>
+
+<h3 align="center">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+        width="20px" style="margin-right: 10px;">
+    Technologies That I Know and I've Worked With
+</h3>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div>
-    <h3 align="left">Languages:</h3>
-    <div align="left">
+    <h4 align="center">Languages</h4>
+    <div align="center">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=html"
                 alt="html5" width="40" height="40" />
@@ -61,8 +67,8 @@
 </div>
 
 <div>
-    <h3 align="left">Frontend Frameworks, Libraries and Tools:</h3>
-    <div align="left">
+    <h4 align="center">Frontend Frameworks, Libraries and Tools</h4>
+    <div align="center">
         <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40" />
         </a>
@@ -115,8 +121,8 @@
 </div>
 
 <div>
-    <h3 align="left">Backend Frameworks, Services and APIs:</h3>
-    <div align="left">
+    <h4 align="center">Backend Frameworks, Services and APIs</h4>
+    <div align="center">
         <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40" />
         </a>
@@ -139,8 +145,8 @@
 </div>
 
 <div>
-    <h3 align="left">Databases and Tools:</h3>
-    <div align="left">
+    <h4 align="center">Databases and Tools</h4>
+    <div align="center">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40" />
         </a>
@@ -160,8 +166,8 @@
 </div>
 
 <div>
-    <h3 align="left">Testing & Automation:</h3>
-    <div align="left">
+    <h4 align="center">Testing & Automation</h4>
+    <div align="center">
         <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40" />
         </a>
@@ -178,8 +184,8 @@
 </div>
 
 <div>
-    <h3 align="left">DevOps & Cloud:</h3>
-    <div align="left">
+    <h4 align="center">DevOps & Cloud</h4>
+    <div align="center">
         <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40" />
         </a>
@@ -206,8 +212,8 @@
 </div>
 
 <div>
-    <h3 align="left">Development Tools & Utilities:</h3>
-    <div align="left">
+    <h4 align="center">Development Tools & Utilities</h4>
+    <div align="center">
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40" />
         </a>
