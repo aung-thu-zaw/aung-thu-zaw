@@ -49,7 +49,9 @@
     <tr>
         <td>
             <h3 align="center">
-                🏆 My Top Hand-on Projects
+                <img src="https://media3.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b952co7ainlysys0c3wa2tudzjo7ileit6b6s7gib34b&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"
+                width="30px" style="margin-right: 10px;">
+                My Top Hand-on Projects
             </h3>
             <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
                     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
