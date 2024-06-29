@@ -35,6 +35,24 @@
 
 <br/>
 
+<table align="center" width="100%">
+    <tr width="100%">
+        <td width="60%" align="center">
+            <a href="http://www.github.com/aung-thu-zaw"><img
+                    src="https://github-readme-stats.vercel.app/api?username=aung-thu-zaw&show_icons=true&hide=&count_private=true&title_color=f87315&text_color=8b949e&icon_color=ffffff&bg_color=0d1117&hide_border=true&show_icons=true"
+                    alt="aung-thu-zaw's GitHub stats" /></a>
+            <hr />
+            <a href="http://www.github.com/aung-thu-zaw"><img
+                    src="https://github-readme-streak-stats.herokuapp.com/?user=aung-thu-zaw&stroke=8b949e&background=0d1117&ring=f97316&fire=f97316&currStreakNum=8b949e&currStreakLabel=f97316&sideNums=8b949e&sideLabels=8b949e&dates=8b949e&hide_border=true" /></a>
+        </td>
+        <td width="40%" align="center">
+            <a href="https://github.com/aung-thu-zaw" align="left"><img
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aung-thu-zaw&langs_count=10&title_color=c9d1d9&text_color=8b949e&icon_color=ffffff&bg_color=0d1117&hide_border=true&show_icons=true&locale=en&custom_title=Top%20%Languages"
+                    alt="Top Languages" /></a>
+        </td>
+    </tr>
+</table>
+
 <table align="center">
     <tr>
         <td>
