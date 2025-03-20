@@ -33,7 +33,7 @@
   
 * 🚀  I'm currently working on [Creative Coders Myanmar](https://creativecodermm.com)
   
-* 🖥️  See my portfolio at [https://aung-thu-zaw.github.io/portfolio/](https://aung-thu-zaw.github.io/portfolio/)
+* 🖥️  See my portfolio at [https://aung-thu-zaw.github.io/portfolio/](https://aung-thu-zaw.github.io/Portfolio/)
 
 * 👨‍💻  All of my projects are available at [https://github.com/aung-thu-zaw?tab=repositories](https://github.com/aung-thu-zaw?tab=repositories)
 
